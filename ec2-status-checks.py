@@ -1,5 +1,3 @@
-from wsgiref.validate import check_status
-
 import boto3
 import schedule
 
